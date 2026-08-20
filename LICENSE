@@ -1,0 +1,82 @@
+Copyright (c) 2026 Titouan Renard / CodeIQ
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License (CC BY-NC 4.0).
+
+Full legal code:
+    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Human-readable summary:
+    https://creativecommons.org/licenses/by-nc/4.0/
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+
+================================================================================
+SUMMARY OF TERMS
+================================================================================
+
+You are free to:
+
+  Share   - copy and redistribute the material in any medium or format
+  Adapt   - remix, transform, and build upon the material
+
+Under the following terms:
+
+  Attribution   - You must give appropriate credit, provide a link to the
+                  license, and indicate if changes were made. You may do so in
+                  any reasonable manner, but not in any way that suggests the
+                  licensor endorses you or your use.
+
+  NonCommercial - You may not use the material for commercial purposes. A
+                  commercial purpose is one primarily intended for or directed
+                  toward commercial advantage or monetary compensation. This
+                  includes integrating this data into a paid product, a managed
+                  service billed to a client, or any commercial offering.
+
+  No additional restrictions - You may not apply legal terms or technological
+                  measures that legally restrict others from doing anything the
+                  license permits.
+
+================================================================================
+UPSTREAM SOURCE AND REQUIRED ATTRIBUTION
+================================================================================
+
+This repository is an aggregation and normalization of third-party threat
+intelligence feeds. It does not create original indicators. The NonCommercial
+restriction above is inherited from its upstream source and cannot be waived by
+the maintainer of this repository.
+
+Aggregated source:
+
+  Phishing Army Blocklist Extended
+  Copyright (c) Andrea Draghetti
+  https://phishing.army/
+  Licensed under CC BY-NC 4.0
+
+Any redistribution of this data, in whole or in part, must credit Andrea
+Draghetti and link to the CC BY-NC 4.0 license.
+
+================================================================================
+COMPATIBILITY NOTICE
+================================================================================
+
+The companion repository malicious_ip_addresses is published under GPL-3.0.
+
+  https://github.com/chelsinforce/malicious_ip_addresses
+
+CC BY-NC 4.0 and GPL-3.0 are incompatible licenses. The two datasets are
+deliberately kept in separate repositories and MUST NOT be merged into a single
+file or distributed as a single combined work.
+
+================================================================================
+DISCLAIMER
+================================================================================
+
+This data is provided "as is", without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a
+particular purpose and noninfringement. In no event shall the authors or
+copyright holders be liable for any claim, damages or other liability arising
+from, out of or in connection with the data or the use of the data.
+
+Blocking legitimate traffic as a result of an entry in this list is the sole
+responsibility of the operator deploying it. Test before enforcing in
+production.
