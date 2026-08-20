@@ -1,0 +1,14 @@
+# Aggregated malicious IPv4 blocklist
+# Generated: 2026-08-20T08:13:06.867Z
+# Entries: 1
+# Update frequency: every 6 hours
+#
+# Sources and attributions:
+#   - abuse.ch Feodo Tracker | CC0 1.0 | 1 entries | OK
+#     https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
+#
+# Reserved, private and CGNAT ranges are excluded.
+# This is a mirror: the file is fully regenerated at each run.
+# See the repository README for licensing details.
+#
+50.16.16.211
