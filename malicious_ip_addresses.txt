@@ -1,5 +1,5 @@
 # Aggregated malicious IPv4 blocklist
-# Generated: 2026-08-20T08:33:10.469Z
+# Generated: 2026-08-20T08:39:38.164Z
 # Entries: 1
 # Update frequency: every 6 hours
 #
