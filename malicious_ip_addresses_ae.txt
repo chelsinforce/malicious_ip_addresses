@@ -1,5 +1,5 @@
 # Aggregated malicious IPv4 blocklist
-# Generated: 2026-08-23T10:05:50.280Z
+# Generated: 2026-08-23T16:05:50.217Z
 # Segment: ae (5/6) | Entries in this file: 0 | Total in full list: 101170
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
@@ -9,10 +9,10 @@
 #     1 valid, 1 new after dedup | OK
 #     https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
 #   - Laurent Minne (duggytuxy) - Data-Shield IPv4 Blocklist | GPL-3.0
-#     83672 valid, 83672 new after dedup | OK
+#     82749 valid, 82749 new after dedup | OK
 #     https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/main/prod_data-shield_ipv4_blocklist.txt
 #   - Laurent Minne (duggytuxy) - Data-Shield IPv4 Blocklist | GPL-3.0
-#     100243 valid, 16571 new after dedup | OK
+#     100243 valid, 17494 new after dedup | OK
 #     https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/main/prod_critical_data-shield_ipv4_blocklist.txt
 #   - Binary Defense Systems | Public use only, resale prohibited
 #     2921 valid, 926 new after dedup | OK
