@@ -1,6 +1,6 @@
 # Aggregated malicious IPv4 blocklist
-# Generated: 2026-11-04T23:05:49.419Z
-# Segment: ae (5/6) | Entries in this file: 102 | Total in full list: 120102
+# Generated: 2026-11-05T05:05:49.099Z
+# Segment: ae (5/6) | Entries in this file: 124 | Total in full list: 120124
 # Max entries per segment: 30000
 # Update frequency: every 6 hours
 #
@@ -9,13 +9,13 @@
 #     1 valid, 1 new after dedup | OK
 #     https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
 #   - Laurent Minne (duggytuxy) - Data-Shield IPv4 Blocklist | GPL-3.0
-#     111523 valid, 111523 new after dedup | OK
+#     111792 valid, 111792 new after dedup | OK
 #     https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/main/prod_data-shield_ipv4_blocklist.txt
 #   - Laurent Minne (duggytuxy) - Data-Shield IPv4 Blocklist | GPL-3.0
-#     119533 valid, 8373 new after dedup | OK
+#     119489 valid, 8175 new after dedup | OK
 #     https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/main/prod_critical_data-shield_ipv4_blocklist.txt
 #   - Binary Defense Systems | Public use only, resale prohibited
-#     758 valid, 205 new after dedup | OK
+#     622 valid, 156 new after dedup | OK
 #     https://www.binarydefense.com/banlist.txt
 #
 # Reserved, private and CGNAT ranges are excluded.
@@ -23,12 +23,32 @@
 # Segments are fixed in number: an empty segment is normal.
 # See the repository README for licensing details.
 #
+223.123.92.106
+223.123.111.1
+223.123.124.109
+223.123.124.125
+223.130.11.15
+223.130.150.82
+223.134.89.104
+223.137.58.149
+223.137.99.227
+223.137.168.222
+223.151.72.68
+223.151.72.255
+223.151.73.86
+223.151.74.235
+223.151.75.204
+223.151.248.72
+223.151.249.219
+223.151.255.90
+223.152.131.230
+223.154.81.23
+223.165.6.95
 223.165.66.9
 223.165.69.38
 223.165.69.104
 223.166.74.129
 223.166.103.218
-223.166.157.21
 223.166.199.196
 223.166.226.192
 223.167.121.107
@@ -87,6 +107,7 @@
 223.198.166.68
 223.198.166.118
 223.198.167.152
+223.210.50.30
 223.221.38.226
 223.223.136.59
 223.223.138.5
@@ -113,6 +134,7 @@
 223.235.244.164
 223.236.203.140
 223.241.21.210
+223.241.197.97
 223.241.214.127
 223.243.26.188
 223.243.54.229
